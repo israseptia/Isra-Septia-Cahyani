@@ -1,0 +1,37 @@
+body {
+    background-color:sandybrown;
+}
+
+header {
+    text-align: left;
+    position: fixed;
+}
+
+.logo ul li {
+    display: inline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:saddlebrown;
+}
+
+.nav ul {
+    background-color:saddlebrown;
+    width: 150px;
+    height: 480px;
+    position: left;
+    text-align: left;
+}
+
+.nav ul li {
+    padding: 17px 17px;
+    display: inline-block;
+    color: yellow;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 130px;
+    padding-left: 170px;
+    color: yellow;
+    font-size: 70px;;
+}

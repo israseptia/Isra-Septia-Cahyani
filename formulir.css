@@ -1,0 +1,48 @@
+body {
+    background-color: sandybrown;
+}
+header {
+    text-align: left;
+    position: fixed;
+}
+
+.logo ul li {
+    display: inline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:saddlebrown;
+}
+
+.nav ul {
+    background-color: saddlebrown;
+    width: 150px;
+    height: 480px;
+    position: left;
+    text-align: left;
+}
+
+.nav ul li {
+    padding: 17px 17px;
+    display: inline-block;
+    color: yellow;
+    text-align: left;
+}
+
+
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color:saddlebrown;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:saddlebrown;
+    font-family:initial;
+    color: yellow;
+}
+
