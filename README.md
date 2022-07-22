@@ -1,2 +1,0 @@
-# Isra-Septia-Cahyani
-Pramuka
